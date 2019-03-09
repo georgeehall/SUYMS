@@ -1,0 +1,38 @@
+.jumbotron {
+    background-image: url("closed.jpg");
+    margin-bottom: 0;
+    min-height: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: cover;
+    background-size: cover;
+    margin-bottom: 15px;
+    color: white;
+}
+
+.card {
+      margin-bottom: 10px;
+    }
+
+.btn-primary {
+    margin-left: 25px;
+}
+
+.btn-secondary {
+    margin-bottom: 10px;
+}
+
+.bannerimg {
+    margin-bottom: 10px;
+}
+
+.card-title {
+    margin-left: 3px;
+}
+.dropdown-menu-right {
+    right: 0;
+    left: auto;
+    width: 650px;
+}
+
+
